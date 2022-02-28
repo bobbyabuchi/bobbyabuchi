@@ -16,8 +16,8 @@ Software engineering roles enable me to work in the areas that interest me. I am
 #### Python
 
 - [x] [ProjectName](https://...)
-- [] [ProjectName](https://...)
-- [] [ProjectName] (https://...)
+- [ProjectName](https://...)
+- [ProjectName](https://...)
 
 
 <!--
