@@ -10,6 +10,16 @@ Software engineering roles enable me to work in the areas that interest me. I am
 - Tools: Azure Cloud (Including: Functions, Logic Apps, Power Automate, WebHook), Google Admin, Office 365, GCP and AWS
 - Other Skills: Version Control (Git & GitHub), CI/CD, Kanban, Azure DevOps
 
+### Projects
+---
+
+#### Python
+
+- [x] ProjectName (https://...)
+- [] ProjectName (https://...)
+- [] ProjectName (https://...)
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
