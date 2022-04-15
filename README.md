@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-Software engineering roles enable me to work in the areas that interest me. I am confident in solving problems, taking up challenges and issues that can be improved on or resolved by software.
+```
+I am confident in solving problems, taking up challenges and issues that can be improved on or resolved with software.
+```
 
 - 🔭 I’m currently working on [Support Ticketing System for CIRMS](https://cirs.unizik.edu.ng/) 
 - 🌱 I’m currently learning Microsoft Azure
