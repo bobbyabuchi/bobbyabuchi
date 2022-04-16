@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 ```
 I am confident in solving problems, taking up challenges and issues that can be improved on or resolved with software.
 ```
