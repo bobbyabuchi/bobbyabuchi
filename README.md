@@ -1,6 +1,6 @@
 ### Hi 👋
 ```
-I am confident in solving problems, taking up challenges and issues that can be improved on or resolved with software.
+I am confident in solving problems, taking up challenges and issues that can be improved on or resolved with code.
 ```
 
 - 🔭 I’m currently working on [Support Ticketing System for CIRMS](https://cirs.unizik.edu.ng/) 
