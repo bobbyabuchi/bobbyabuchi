@@ -5,7 +5,7 @@ I am confident in solving problems, taking up challenges and issues that can be 
 
 - 🔭 I’m currently working on [Support Ticketing System for CIRMS](https://cirs.unizik.edu.ng/) 
 - 🌱 I’m currently learning Microsoft Azure
-- 👯 I’m looking to collaborate on Education Technology
+- 👯 I’m looking to collaborate on Education Technology Projects
 - 📫 [Telegram](https://t.me/bobbyabuchi)
 <!-- - ⚡ Fun fact: A lover is a fighter
 - ❤️ I'm love with Chisom   -->
