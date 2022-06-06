@@ -3,7 +3,7 @@
 I am confident in solving problems, taking up challenges and issues that can be improved on or resolved with code.
 ```
 
-- 🔭 I’m currently working on [Support Ticketing System for CIRMS](https://cirs.unizik.edu.ng/) 
+- 🔭 I’m currently working on [Support Ticketing System for CIRMS](https://cirs.unizik.edu.ng/) and [Christian Outreach Managment System](http://saved.com.ng/)
 - 🌱 I’m currently learning Microsoft Azure
 - 👯 I’m looking to collaborate on Education Technology Projects
 - 📫 [Telegram](https://t.me/bobbyabuchi)
@@ -24,9 +24,9 @@ I am confident in solving problems, taking up challenges and issues that can be 
 
 #### Python
 
-- [x] [ProjectName](https://...)
-- [ProjectName](https://...)
-- [ProjectName](https://...)
+- [x] [Christian Outreach Managment System](https://...)
+- [Intelligent Counsellor for Schools](https://...)
+- [LMS](https://...)
 
 <!-- 
 - 🤔 I’m looking for help with 
