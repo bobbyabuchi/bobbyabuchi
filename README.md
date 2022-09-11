@@ -3,7 +3,7 @@
 I am confident in solving problems, taking up challenges and issues that can be improved on or resolved with code.
 ```
 
-- 🔭 I’m currently working on [Support Ticketing System for CIRMS](https://cirs.unizik.edu.ng/) and [Christian Outreach Managment System](http://saved.com.ng/)
+- 🔭 I’m currently working on [Christian Outreach Managment System](http://saved.com.ng/)
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Education Technology Projects
 - 📫 [Telegram](https://t.me/bobbyabuchi)
