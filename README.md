@@ -10,6 +10,9 @@ I am confident in solving problems, taking up challenges and issues that can be 
 <!-- - ⚡ Fun fact: A lover is a fighter
 - ❤️ I'm love with Chisom   -->
 
+
+#### Skills
+
 ```
 - Language Skills: PHP, Python, JavaScript, TypeScript, PHP, C#, Ruby, Rust
 - Back-end: NodeJS, Flask, SQL, PostgreSQL, MongoDB
