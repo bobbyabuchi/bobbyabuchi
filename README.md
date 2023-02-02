@@ -4,7 +4,7 @@ Just taking up challenges and issues that can be improved on or resolved with co
 ```
 
 - [📫](https://t.me/bobbyabuchi)
-- ⚡ Fun fact: A lover is not just a fighter, but a warrior and superhero.
+- ⚡ Fun fact: A lover is not just a fighter, but a warrior and hero.
 - [❤️](https://www.instagram.com/alwaz_dazzlingstar/)
 
 #### Version Control
