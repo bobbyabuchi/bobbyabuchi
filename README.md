@@ -5,6 +5,6 @@ Primary job description is learning...
 
 - [📫](https://t.me/bobbyabuchi)
 - ⚡ Team player
-- [❤️](https://www.instagram.com/alwaz_dazzlingstar/)
+- [❤️](https://bobbyabuchi.co.uk)
 
 #### Version Control
