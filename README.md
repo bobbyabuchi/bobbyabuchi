@@ -1,6 +1,6 @@
 ### Hi 👋
 ```
-Just taking up challenges and issues that can be improved on or resolved with code here...
+Primary job description is learning...
 ```
 
 - [📫](https://t.me/bobbyabuchi)
