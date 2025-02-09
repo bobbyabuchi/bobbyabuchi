@@ -7,7 +7,7 @@ Primary job description is learning...
 - ⚡ Team player
 - [❤️](https://bobbyabuchi.co.uk)
 
-::: Five coding assessment points :::
+Coding Points:
 - Problem Statement Retention: do you understand the problem?
 - Coding Ability: can you translate the solution to code?
 - Data Structure Application: do you know when to use a particular data structure?
