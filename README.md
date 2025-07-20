@@ -1,6 +1,6 @@
 ### Hi 👋
 ```
-Primary job description is learning...
+What shall it profit a man, if he gains the world at the expense of his soul?
 ```
 
 - [📫](https://t.me/bobbyabuchi)
